@@ -2,7 +2,7 @@
 # Professional Case Studies
 **Note:** Case studies are anonymized and partially reconstructed analyses based on prior institutional experience, with certain parameters normalized or concealed for confidentiality.
 
-## Case Study 01 — Structured Supply-Chain Financing (Case report: [Google Doc]( ))
+## Case Study 01 — Structured Supply-Chain Financing (Case report: [Google Doc](https://drive.google.com/file/d/1DHXPMmhC69-cVd9VgK_jC0-A4EHye_gb/view?usp=sharing))
  
 
 ### Structure & Original Repayment Analysis 
@@ -56,7 +56,7 @@ flowchart LR
 - This case is more like a guarantee stack, not credit tranching.
 
 
-## Case Study 02 — ABS / Trust Structured Financing  (Case report: [Google Doc]( ))
+## Case Study 02 — ABS / Trust Structured Financing  (Case report: [Google Doc](https://drive.google.com/file/d/1L2w2lhc8OxJmuqxgwyxSGm516rD9ILiq/view?usp=sharing))
 
 ### Transaction Structure and Waterfall
 - It is a dual-SPV structure, including front-end fund trust plan and back-end ABS issuance plan.
@@ -65,9 +65,8 @@ flowchart LR
 ![Transaction structure](02_ABS_Trust_Structured_Financing/Structure/Transaction_structure.png)
 ![Loss Waterfall](02_ABS_Trust_Structured_Financing/Structure/Waterfall.png)
 
-
-
-
+![Transaction structure](02_ABS:Trust_Structured_Financing/Structure/Transaction_structure.png)
+![Loss Waterfall](02_ABS:Trust_Structured_Financing/Structure/Waterfall.png)
 
 ### Original Underwriting and Guarantor Exposure
 - Based on the sequential waterfall, cash-flow payouts are triggered if a) net rental collections breach the threshold of coverage lock-ups; b) the borrower fails to replenish the pool with eligible apartment receivables when occupancy drops below X%; c) the subordinate tranche is exhausted; d) Investment Management Co., Ltd. defaults on its shortfall payment undertaking.
