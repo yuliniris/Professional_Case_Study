@@ -65,8 +65,6 @@ flowchart LR
 ![Transaction structure](02_ABS_Trust_Structured_Financing/Structure/Transaction_structure.png)
 ![Loss Waterfall](02_ABS_Trust_Structured_Financing/Structure/Waterfall.png)
 
-![Transaction structure](02_ABS:Trust_Structured_Financing/Structure/Transaction_structure.png)
-![Loss Waterfall](02_ABS:Trust_Structured_Financing/Structure/Waterfall.png)
 
 ### Original Underwriting and Guarantor Exposure
 - Based on the sequential waterfall, cash-flow payouts are triggered if a) net rental collections breach the threshold of coverage lock-ups; b) the borrower fails to replenish the pool with eligible apartment receivables when occupancy drops below X%; c) the subordinate tranche is exhausted; d) Investment Management Co., Ltd. defaults on its shortfall payment undertaking.
