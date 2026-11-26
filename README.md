@@ -62,8 +62,8 @@ flowchart LR
 - It is a dual-SPV structure, including front-end fund trust plan and back-end ABS issuance plan.
 - The transaction structure and loss waterfall are shown as follow:
 
-![Transaction structure](02_ABS:Trust_Structured_Financing/Structure/Transaction_structure.png)
-![Loss Waterfall](02_ABS:Trust_Structured_Financing/Structure/Waterfall.png)
+![Transaction structure](02_ABS_Trust_Structured_Financing/Structure/Transaction_structure.png)
+![Loss Waterfall](02_ABS_Trust_Structured_Financing/Structure/Waterfall.png)
 
 
 
