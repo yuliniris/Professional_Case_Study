@@ -2,7 +2,7 @@
 # Professional Case Studies
 **Note:** Case studies are anonymized and partially reconstructed analyses based on prior institutional experience, with certain parameters normalized or concealed for confidentiality.
 
-## Case Study 01 — Structured Supply-Chain Financing (Case report: [Google Doc](https://drive.google.com/file/d/1DHXPMmhC69-cVd9VgK_jC0-A4EHye_gb/view?usp=sharing))
+## Case Study 01 — Structured Supply-Chain Financing (Case report: [Google Doc](https://drive.google.com/file/d/1yZMpdP2yTL10R4Hamidnl8Tt934OCcAu/view?usp=sharing))
  
 
 ### Structure & Original Repayment Analysis 
